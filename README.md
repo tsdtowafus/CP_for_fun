@@ -1,7 +1,10 @@
 # CP_for_fun
 # Codeforces Round 869 (Div. 1)
+
 A: N/A
+
 B: Graph:
+
 -> # Kỹ thuật kiểm tra có vòng tròn khép kín tại node hay không, 
   - dfs(node, pre_node) 
     + Basic stop: Dừng khi cạnh đi từ 1 điểm khác root tới điểm lân cận của root -> trả về 1;
