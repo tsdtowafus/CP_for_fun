@@ -16,4 +16,8 @@ B: Graph:
   - Đánh dấu vị trí cuối cùng trong lúc duyệt dfs,
   - Đánh dấu vị trí pre_node trong lúc duyệt dfs,
   - Truy ngược lại từ node cuối cùng về đầu. for(int t=z; t!=root; t=f(t))
+
+C: Math -> N/A
+
+D: 
   
